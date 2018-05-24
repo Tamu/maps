@@ -62,7 +62,7 @@
           "normal": "#poly-673AB7-1200-77-nodesc-normal",
           "highlight": "#poly-673AB7-1200-77-nodesc-highlight"
         },
-        "name": "Portique", "stroke": "#673ab7",
+        "stroke": "#673ab7",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#673ab7",
@@ -134,7 +134,7 @@
           "normal": "#poly-CE93D8-1200-77-nodesc-normal",
           "highlight": "#poly-CE93D8-1200-77-nodesc-highlight"
         },
-        "name": "Portique", "stroke": "#ce93d8",
+        "stroke": "#ce93d8",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#ce93d8",
@@ -202,7 +202,7 @@
           "normal": "#poly-9C27B0-1200-77-nodesc-normal",
           "highlight": "#poly-9C27B0-1200-77-nodesc-highlight"
         },
-        "name": "Portique", "stroke": "#9c27b0",
+        "stroke": "#9c27b0",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#9c27b0",
@@ -275,7 +275,7 @@
           "highlight": "#poly-673AB7-1200-77-highlight"
         },
         "description": "Attention à la visibilité de la caténaire à cause des marquise",
-        "name": "Portique", "stroke": "#673ab7",
+        "stroke": "#673ab7",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#673ab7",
@@ -343,7 +343,7 @@
           "normal": "#poly-CE93D8-1200-77-nodesc-normal",
           "highlight": "#poly-CE93D8-1200-77-nodesc-highlight"
         },
-        "name": "Portique", "stroke": "#ce93d8",
+        "stroke": "#ce93d8",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#ce93d8",
@@ -387,7 +387,7 @@
           "normal": "#poly-9C27B0-1200-77-nodesc-normal",
           "highlight": "#poly-9C27B0-1200-77-nodesc-highlight"
         },
-        "name": "Portique", "stroke": "#9c27b0",
+        "stroke": "#9c27b0",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#9c27b0",
@@ -435,7 +435,7 @@
           "normal": "#poly-9C27B0-1200-77-nodesc-normal",
           "highlight": "#poly-9C27B0-1200-77-nodesc-highlight"
         },
-        "name": "Portique", "stroke": "#9c27b0",
+        "stroke": "#9c27b0",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#9c27b0",
@@ -479,7 +479,7 @@
           "normal": "#poly-673AB7-1200-77-nodesc-normal",
           "highlight": "#poly-673AB7-1200-77-nodesc-highlight"
         },
-        "name": "Portique", "stroke": "#673ab7",
+        "stroke": "#673ab7",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#673ab7",
@@ -539,7 +539,7 @@
           "normal": "#poly-CE93D8-1200-77-nodesc-normal",
           "highlight": "#poly-CE93D8-1200-77-nodesc-highlight"
         },
-        "name": "Portique", "stroke": "#ce93d8",
+        "stroke": "#ce93d8",
         "stroke-opacity": 1,
         "stroke-width": 1.2,
         "fill": "#ce93d8",
