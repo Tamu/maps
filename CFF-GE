@@ -1,0 +1,632 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.100781,
+              46.2188985,
+              0
+            ],
+            [
+              6.1002016,
+              46.2183937,
+              0
+            ],
+            [
+              6.103152,
+              46.2164339,
+              0
+            ],
+            [
+              6.1082268,
+              46.2121577,
+              0
+            ],
+            [
+              6.1092862,
+              46.2113521,
+              0
+            ],
+            [
+              6.1095867,
+              46.2115377,
+              0
+            ],
+            [
+              6.10798,
+              46.2128258,
+              0
+            ],
+            [
+              6.1054695,
+              46.2150233,
+              0
+            ],
+            [
+              6.1037529,
+              46.2164116,
+              0
+            ],
+            [
+              6.1023688,
+              46.2175845,
+              0
+            ],
+            [
+              6.100781,
+              46.2188985,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 1 Ouest (Gare GE)",
+        "styleUrl": "#poly-673AB7-1200-77-nodesc",
+        "styleHash": "-2c64a842",
+        "styleMapHash": {
+          "normal": "#poly-673AB7-1200-77-nodesc-normal",
+          "highlight": "#poly-673AB7-1200-77-nodesc-highlight"
+        },
+        "stroke": "#673ab7",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#673ab7",
+        "fill-opacity": 0.30196078431372547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1095867,
+              46.2115377,
+              0
+            ],
+            [
+              6.1092862,
+              46.2113521,
+              0
+            ],
+            [
+              6.1099648,
+              46.2108658,
+              0
+            ],
+            [
+              6.1110806,
+              46.2102273,
+              0
+            ],
+            [
+              6.1120301,
+              46.2097781,
+              0
+            ],
+            [
+              6.1133391,
+              46.2093846,
+              0
+            ],
+            [
+              6.1165577,
+              46.2084491,
+              0
+            ],
+            [
+              6.1166596,
+              46.2086496,
+              0
+            ],
+            [
+              6.1146158,
+              46.2092139,
+              0
+            ],
+            [
+              6.1128402,
+              46.2097447,
+              0
+            ],
+            [
+              6.1110699,
+              46.2105392,
+              0
+            ],
+            [
+              6.1095867,
+              46.2115377,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 2 Ouest (sortie St-Jean - Viaduc de l'Ecu)",
+        "styleUrl": "#poly-CE93D8-1200-77-nodesc",
+        "styleHash": "-42163a6",
+        "styleMapHash": {
+          "normal": "#poly-CE93D8-1200-77-nodesc-normal",
+          "highlight": "#poly-CE93D8-1200-77-nodesc-highlight"
+        },
+        "stroke": "#ce93d8",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#ce93d8",
+        "fill-opacity": 0.30196078431372547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.139909,
+              46.2090617,
+              0
+            ],
+            [
+              6.1389434,
+              46.2079554,
+              0
+            ],
+            [
+              6.1369371,
+              46.2065372,
+              0
+            ],
+            [
+              6.1349201,
+              46.206114,
+              0
+            ],
+            [
+              6.1323881,
+              46.2058244,
+              0
+            ],
+            [
+              6.1327207,
+              46.2053195,
+              0
+            ],
+            [
+              6.135757,
+              46.205713,
+              0
+            ],
+            [
+              6.1376667,
+              46.2062476,
+              0
+            ],
+            [
+              6.1389863,
+              46.2070718,
+              0
+            ],
+            [
+              6.1407781,
+              46.2086013,
+              0
+            ],
+            [
+              6.139909,
+              46.2090617,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 3 Ouest (Fin des quais - entrée tunnel St-Jean)",
+        "styleUrl": "#poly-9C27B0-1200-77-nodesc",
+        "styleHash": "-4886098d",
+        "styleMapHash": {
+          "normal": "#poly-9C27B0-1200-77-nodesc-normal",
+          "highlight": "#poly-9C27B0-1200-77-nodesc-highlight"
+        },
+        "stroke": "#9c27b0",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#9c27b0",
+        "fill-opacity": 0.30196078431372547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.139909,
+              46.2090617,
+              0
+            ],
+            [
+              6.1407781,
+              46.2086013,
+              0
+            ],
+            [
+              6.1426127,
+              46.2101828,
+              0
+            ],
+            [
+              6.1435676,
+              46.2109995,
+              0
+            ],
+            [
+              6.1441684,
+              46.2116231,
+              0
+            ],
+            [
+              6.1445117,
+              46.2124101,
+              0
+            ],
+            [
+              6.1432672,
+              46.212566,
+              0
+            ],
+            [
+              6.1432564,
+              46.2121577,
+              0
+            ],
+            [
+              6.1423552,
+              46.2112074,
+              0
+            ],
+            [
+              6.1413789,
+              46.2103758,
+              0
+            ],
+            [
+              6.1405742,
+              46.2095888,
+              0
+            ],
+            [
+              6.139909,
+              46.2090617,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 4 Quais GE (Attention à la visibilité)",
+        "styleUrl": "#poly-673AB7-1200-77",
+        "styleHash": "32392389",
+        "styleMapHash": {
+          "normal": "#poly-673AB7-1200-77-normal",
+          "highlight": "#poly-673AB7-1200-77-highlight"
+        },
+        "description": "Attention à la visibilité de la caténaire à cause des marquise",
+        "stroke": "#673ab7",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#673ab7",
+        "fill-opacity": 0.30196078431372547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1432672,
+              46.212566,
+              0
+            ],
+            [
+              6.1445117,
+              46.2124101,
+              0
+            ],
+            [
+              6.1455631,
+              46.2144072,
+              0
+            ],
+            [
+              6.1458635,
+              46.2158177,
+              0
+            ],
+            [
+              6.1456704,
+              46.2177478,
+              0
+            ],
+            [
+              6.1455417,
+              46.2200045,
+              0
+            ],
+            [
+              6.1439109,
+              46.220346,
+              0
+            ],
+            [
+              6.1436319,
+              46.2182081,
+              0
+            ],
+            [
+              6.1439753,
+              46.2167531,
+              0
+            ],
+            [
+              6.1435032,
+              46.2148674,
+              0
+            ],
+            [
+              6.1432672,
+              46.212566,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 5",
+        "styleUrl": "#poly-CE93D8-1200-77-nodesc",
+        "styleHash": "-42163a6",
+        "styleMapHash": {
+          "normal": "#poly-CE93D8-1200-77-nodesc-normal",
+          "highlight": "#poly-CE93D8-1200-77-nodesc-highlight"
+        },
+        "stroke": "#ce93d8",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#ce93d8",
+        "fill-opacity": 0.30196078431372547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1435246,
+              46.22333,
+              0
+            ],
+            [
+              6.1439109,
+              46.220346,
+              0
+            ],
+            [
+              6.1455417,
+              46.2200045,
+              0
+            ],
+            [
+              6.1456919,
+              46.2236269,
+              0
+            ],
+            [
+              6.1435246,
+              46.22333,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 6",
+        "styleUrl": "#poly-9C27B0-1200-77-nodesc",
+        "styleHash": "-4886098d",
+        "styleMapHash": {
+          "normal": "#poly-9C27B0-1200-77-nodesc-normal",
+          "highlight": "#poly-9C27B0-1200-77-nodesc-highlight"
+        },
+        "stroke": "#9c27b0",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#9c27b0",
+        "fill-opacity": 0.30196078431372547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1437821,
+              46.2179705,
+              0
+            ],
+            [
+              6.1409926,
+              46.2162631,
+              0
+            ],
+            [
+              6.1417007,
+              46.2153129,
+              0
+            ],
+            [
+              6.1432028,
+              46.2164264,
+              0
+            ],
+            [
+              6.1441684,
+              46.2171985,
+              0
+            ],
+            [
+              6.1437821,
+              46.2179705,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 7",
+        "styleUrl": "#poly-9C27B0-1200-77-nodesc",
+        "styleHash": "-4886098d",
+        "styleMapHash": {
+          "normal": "#poly-9C27B0-1200-77-nodesc-normal",
+          "highlight": "#poly-9C27B0-1200-77-nodesc-highlight"
+        },
+        "stroke": "#9c27b0",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#9c27b0",
+        "fill-opacity": 0.30196078431372547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1417007,
+              46.2153129,
+              0
+            ],
+            [
+              6.142087,
+              46.2145705,
+              0
+            ],
+            [
+              6.1437607,
+              46.2152535,
+              0
+            ],
+            [
+              6.1441684,
+              46.2171985,
+              0
+            ],
+            [
+              6.1417007,
+              46.2153129,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 8",
+        "styleUrl": "#poly-673AB7-1200-77-nodesc",
+        "styleHash": "-2c64a842",
+        "styleMapHash": {
+          "normal": "#poly-673AB7-1200-77-nodesc-normal",
+          "highlight": "#poly-673AB7-1200-77-nodesc-highlight"
+        },
+        "stroke": "#673ab7",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#673ab7",
+        "fill-opacity": 0.30196078431372547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.1456919,
+              46.2236269,
+              0
+            ],
+            [
+              6.1450696,
+              46.2250521,
+              0
+            ],
+            [
+              6.1458421,
+              46.2272936,
+              0
+            ],
+            [
+              6.1462069,
+              46.228778,
+              0
+            ],
+            [
+              6.1455417,
+              46.2292679,
+              0
+            ],
+            [
+              6.1454129,
+              46.2279913,
+              0
+            ],
+            [
+              6.1439323,
+              46.2245325,
+              0
+            ],
+            [
+              6.1435246,
+              46.22333,
+              0
+            ],
+            [
+              6.1456919,
+              46.2236269,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zone 9 Est",
+        "styleUrl": "#poly-CE93D8-1200-77-nodesc",
+        "styleHash": "-42163a6",
+        "styleMapHash": {
+          "normal": "#poly-CE93D8-1200-77-nodesc-normal",
+          "highlight": "#poly-CE93D8-1200-77-nodesc-highlight"
+        },
+        "stroke": "#ce93d8",
+        "stroke-opacity": 1,
+        "stroke-width": 1.2,
+        "fill": "#ce93d8",
+        "fill-opacity": 0.30196078431372547
+      }
+    }
+  ]
+}
