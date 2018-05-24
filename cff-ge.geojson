@@ -627,9 +627,8 @@
         "fill": "#ce93d8",
         "fill-opacity": 0.30196078431372547
       }
-    }
-
-        {
+    },
+    {
             "type": "Feature",
             "geometry": {
                 "type": "LineString",
