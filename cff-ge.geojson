@@ -11136,40 +11136,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.144104,
-          46.214014
-        ]
-      },
-      "properties": {
-        "title": "GE_KM059845",
-        "categories": [
-          "Point"
-        ],
-        "_step": {
-          "_id": "585006873bf4503f09a8872d",
-          "progress": 0
-        },
-        "id": "585006e53bf4503f09a8ef88"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.144353,
           46.213554
         ]
       },
       "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "title": "GE_KM059863",
-        "categories": [
-          "Point"
-        ],
-        "_step": {
-          "_id": "585006873bf4503f09a8872f",
-          "progress": 0
-        },
+        "categories": "[\"Point\"]",
+        "_step": "{\"_id\":\"585006873bf4503f09a8872f\",\"progress\":0}",
         "id": "585006e53bf4503f09a8ef8a"
       }
     },
